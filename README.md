@@ -21,7 +21,7 @@
 
 
 # Class Diagram
-![Class Diagram1](https://user-images.githubusercontent.com/100337916/217179089-c98460e1-ed55-4aeb-8b11-922cd720bd43.png)
+![Class Diagram1](https://user-images.githubusercontent.com/100337916/217184137-862b354e-20c3-4079-a86f-f74739398f69.png)
 
 
 # A small preview of our:
