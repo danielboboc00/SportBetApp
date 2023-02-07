@@ -2,9 +2,22 @@
 "Sports Betting Application" is a revolutionary sporting betting platform that combines the excitement of sports with the thrill of betting. With a user-friendly interface and a wide range of sports to choose from, this platform provides a unique and enjoyable betting experience for all types of users. The platform uses cutting-edge technology and advanced algorithms to provide accurate odds and real-time updates, ensuring a fair and transparent betting process. Whether you are a seasoned bettor or a newcomer to the world of sports betting, "Gambling Royale" has something to offer for everyone. With its combination of thrilling gameplay and lucrative rewards, "Gambling Royale" is set to become the go-to destination for sports betting enthusiasts.
 
 # Our Staff 
-#### Boboc Nicolae Daniel
-#### Tataru Ioan
-#### Andronic Radu
+- Boboc Nicolae Daniel
+- Tataru Ioan
+- Andronic Radu
+
+# Used technologies 
+- SpringBoot
+- MySql DataBase
+- MicroService
+- Containers using Docker
+- Cloud Deployment
+
+![Case Diagram](https://user-images.githubusercontent.com/100337916/217177793-6af51791-3fb2-486b-9c31-a44c2abf0672.png)
+
+
+![Class Diagram](https://user-images.githubusercontent.com/100337916/217177892-489a98f5-9fab-4b72-97a1-2509ce3a2629.png)
+
 
 <table>
   <tr>
