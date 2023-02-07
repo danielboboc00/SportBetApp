@@ -4,14 +4,18 @@ Poți plasa bet-uri iar în funcțiile de rezultatele echipelor selectate din be
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212392350-1f17736f-9cb2-4edd-8c15-8bf1b6d77edf.png" alt="SPT1" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212392356-c5a00311-9061-43ec-bce3-5829bd841d6c.png" alt="Your image title" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212392358-c699bd83-ab35-4b1a-8816-d2dbec5a6b09.png" alt="Your image title" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174392-fa68960b-7edc-43c8-a6c8-08de7f5fb82d.jpg" alt="SPT1" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174436-215ef344-1448-4e96-825f-00214b84a524.jpg" alt="Your image title" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174502-7bebb84b-85bf-4be3-a4a5-b97d298e9cab.jpg" alt="Your image title" width="250" height="100"/></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212397164-2bde8ff7-d21d-4fb0-91e9-b26ac176617f.png" alt="Your image title" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212392363-f65d04cb-0405-4ff3-8f59-9f5448b4b15e.png" alt="Your image title" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/76403182/212392366-ff44753b-c14c-46fc-9e64-21c83c4720f1.png" alt="Your image title" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174553-b31d228f-69f0-48e9-a530-3efebd231d34.jpg" alt="Your image title" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174641-6dd5933b-8389-43be-bba5-a41f60c66588.jpg" alt="Your image title" width="250" height="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/100337916/217174646-043cd801-d067-454c-bf6c-7c6b27f70ae1.jpg" alt="Your image title" width="250" height="100"/></td>
   </tr>
   
 </table>
+
+
+
+
