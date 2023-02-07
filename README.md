@@ -1,5 +1,5 @@
-O aplicație care va fi folosită în viitor de mine la un proiect mai mare , este în esențe un website care va funcționa similar cu alte site-uri de profil gen SuperBet/SportsBet etc.
-Poți plasa bet-uri iar în funcțiile de rezultatele echipelor selectate din bet list-ul tău vei putea castiga/pierde bani . Toate rezultatele sunt stocate pe un database securizat . Pe viitor voi introduce si capabilitatea de live-betting a meciulor .
+# What is our app? 
+"Sports Betting Application" is a revolutionary sporting betting platform that combines the excitement of sports with the thrill of betting. With a user-friendly interface and a wide range of sports to choose from, this platform provides a unique and enjoyable betting experience for all types of users. The platform uses cutting-edge technology and advanced algorithms to provide accurate odds and real-time updates, ensuring a fair and transparent betting process. Whether you are a seasoned bettor or a newcomer to the world of sports betting, "Gambling Royale" has something to offer for everyone. With its combination of thrilling gameplay and lucrative rewards, "Gambling Royale" is set to become the go-to destination for sports betting enthusiasts.
 
 
 <table>
