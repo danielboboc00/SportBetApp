@@ -81,6 +81,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>pariuri-docker</finalName>
     </build>
 
 </project>

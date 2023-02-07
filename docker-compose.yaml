@@ -1,0 +1,26 @@
+version: "3"
+services:
+  springboot-app:
+    # container_name: spring-app
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 9090:8080
+    environment:
+      MYSQL_HOST: mysqldb
+      MYSQL_USER: root
+      MYSQL_PASSWORD: password
+      MYSQL_PORT: 3306
+    image:
+      pariuri-docker.jar
+  mysqldb:
+    container_name: mysqldb
+    image: mysql
+
+    ports:
+      - 3308:3306
+    environment:
+      MYSQL_DATABASE: pariuri
+      MYSQL_ROOT_PASSWORD: password
