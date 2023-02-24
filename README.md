@@ -3,12 +3,6 @@
 
 ![sport](https://user-images.githubusercontent.com/100337916/217181109-3af53914-8a76-46dc-8f3b-d335c16ee605.png)
 
-
-# Our Staff 
-- Boboc Nicolae Daniel
-- Tataru Ioan
-- Andronic Radu
-
 # Used technologies 
 - SpringBoot
 - MySql DataBase
@@ -24,7 +18,7 @@
 ![Class Diagram1](https://user-images.githubusercontent.com/100337916/217184137-862b354e-20c3-4079-a86f-f74739398f69.png)
 
 
-# A small preview of our:
+# A small preview of our app:
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/100337916/217174392-fa68960b-7edc-43c8-a6c8-08de7f5fb82d.jpg" alt="Exemplu din proiet 1" width="250" height="100"/></td>
